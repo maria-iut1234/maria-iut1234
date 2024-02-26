@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maria-iut1234" alt="maria-iut1234" /></a> </p>
 
-- 🔭 I’m currently working on [ProjectHub](https://github.com/codecrafts-hackathon/ProjectHub)
+- 🔭 I’m currently working on **an NLP research paper**
 
 - 🌱 I’m currently learning **ReactJS and Tailwind CSS**
 
