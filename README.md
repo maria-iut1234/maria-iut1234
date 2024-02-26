@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shantamaria@iut-dhaka.edu**
 
-- ⚡ Fun fact **(Im)patiently waiting for anyone to talk about anime and video games with me...**
+- ⚡ Fun fact **i have good taste in songs 🎶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
