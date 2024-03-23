@@ -164,9 +164,9 @@ fields_of_interests:
 <h3>✨ Top Repositories</h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Innuo&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/Innuo)
+&nbsp; [![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Innuo&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/Innuo)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=iut-swe-20-dp-1&repo=machine-learning-model&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/iut-swe-20-dp-1/machine-learning-model)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=ML-Project&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/ML-Project)
+&nbsp; [![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=ML-Project&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/ML-Project)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Whispering-Shadow-v-Updated&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/ML-Project)
 
 <p align="center">
@@ -225,8 +225,8 @@ fields_of_interests:
 
 <!-- random programmer quote -->
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
-<a style="display: block; text-align: center;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true">
+<a>
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true">
 </a>
 
 <!-- footer -->
