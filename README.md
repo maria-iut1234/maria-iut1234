@@ -12,7 +12,7 @@
 
 <!-- socials -->
 <p align="center">
-    <a href="www.linkedin.com/in/shanta-maria"><img width="50px"src="assets/icons8-linkedin-64.png"/></a>
+    <a href="https://www.linkedin.com/in/shanta-maria"><img width="50px"src="assets/icons8-linkedin-64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.facebook.com/profile.php?id=100070052212346"><img width="50px" src="assets/icons8-facebook-64.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
