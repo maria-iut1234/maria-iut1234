@@ -33,6 +33,8 @@
 </p>
 
 <p>
+    <br>
+    <br>
     <ul>
         <li> 🛠 &nbsp; Currently researching about NLP topics
         <li> 🌱 &nbsp; Learning React Native, Next.js right now
