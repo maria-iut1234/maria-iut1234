@@ -29,7 +29,7 @@
 </p>
 
 <p>
-    <img align="right" src="https://media1.tenor.com/m/wkmXvhFBhNoAAAAC/tengen-uzui-tengen.gif" style="transform: scale(0.4);">
+    <img align="right"  height=200 width=350 src="https://media1.tenor.com/m/wkmXvhFBhNoAAAAC/tengen-uzui-tengen.gif">
 </p>
 
 <p>
