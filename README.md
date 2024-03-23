@@ -34,7 +34,6 @@
 
 <p>
     <br>
-    <br>
     <ul>
         <li> 🛠 &nbsp; Currently researching about NLP topics
         <li> 🌱 &nbsp; Learning React Native, Next.js right now
@@ -53,7 +52,11 @@
 
 ```yaml
 fields_of_interests:
-  ["Web Development", "Machine Learning", "UI/UX", "Game Development", "DevOps"]
+  [ "Web Development",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps"]
 ```
 
 <!-- <p align="center">
