@@ -29,7 +29,7 @@
 </p>
 
 <p>
-    <img align="right"  height=300 width=450 src="https://media1.tenor.com/m/wkmXvhFBhNoAAAAC/tengen-uzui-tengen.gif">
+    <img align="right"  height=250 width=400 src="https://media1.tenor.com/m/wkmXvhFBhNoAAAAC/tengen-uzui-tengen.gif">
 </p>
 
 <p>
@@ -42,6 +42,8 @@
         <li> 🎌 &nbsp; And a bit of an anime enthusiast too!
     </ul>
 </p>
+
+<br>
 
 ```yaml
 fields_of_interests:
