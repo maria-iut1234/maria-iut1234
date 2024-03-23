@@ -63,6 +63,8 @@ fields_of_interests:
     <a href="https://visitorbadge.io/status?path=maria_iut1234"><img src="https://api.visitorbadge.io/api/visitors?path=maria_iut1234&label=Visitors&countColor=%235d005d&style=flat-square" /></a>
 </p> -->
 
+<br>
+
 <!-- technical skills -->
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18&height=160&text=Technical%20Skills&fontSize=55&fontColor=000&stroke=caafe2" />
@@ -223,7 +225,7 @@ fields_of_interests:
 
 <!-- random programmer quote -->
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
-<p>
+<p align="center">
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true">
 </p>
 
