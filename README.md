@@ -47,8 +47,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ```yaml
 fields_of_interests:
@@ -165,9 +163,9 @@ fields_of_interests:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 &nbsp; [![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Innuo&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/Innuo)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=iut-swe-20-dp-1&repo=machine-learning-model&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/iut-swe-20-dp-1/machine-learning-model)
+&nbsp; [![](https://github-readme-stats.vercel.app/api/pin/?username=iut-swe-20-dp-1&repo=machine-learning-model&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/iut-swe-20-dp-1/machine-learning-model)
 &nbsp; [![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=ML-Project&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/ML-Project)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Whispering-Shadow-v-Updated&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/ML-Project)
+&nbsp; [![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Whispering-Shadow-v-Updated&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/ML-Project)
 
 <p align="center">
   <a href="https://github.com/maria-iut1234?tab=repositories" target="_blank"><img alt="More Repositories" title="More Repositories" src="https://img.shields.io/badge/-More%20Repos-9796f0?style=for-the-badge"/></a>
@@ -225,9 +223,9 @@ fields_of_interests:
 
 <!-- random programmer quote -->
 <!-- https://github.com/piyushsuthar/github-readme-quotes -->
-<a>
+<p>
     <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_mocha&border=true">
-</a>
+</p>
 
 <!-- footer -->
 <p align="center">
