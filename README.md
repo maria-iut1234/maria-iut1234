@@ -179,12 +179,12 @@ fields_of_interests:
     <!-- streaks -->
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <a href="https://github.com/maria-iut1234">
-        <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maria-1234&theme=tokyonight&border=caafe2" height="260px" width="49.5%"/>
+        <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maria-iut1234&theme=tokyonight&border=caafe2" height="260px" width="49.5%"/>
     </a>
     <!-- github stats -->
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <a href="https://github.com/maria-iut1234">
-        <img  align="center" src="https://github-readme-stats.vercel.app/api?username=maria-1234&show_icons=true&count_private=true&show=prs_merged&theme=tokyonight&border_color=caafe2&hide=contribs&text_color=bf91f3&icon_color=38bdae" height="260px" width="49.5%"/>  
+        <img  align="center" src="https://github-readme-stats.vercel.app/api?username=maria-iut1234&show_icons=true&count_private=true&show=prs_merged&theme=tokyonight&border_color=caafe2&hide=contribs&text_color=bf91f3&icon_color=38bdae" height="260px" width="49.5%"/>  
     </a>
 </a>
 <!-- profile summary -->
