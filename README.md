@@ -52,11 +52,13 @@
 
 ```yaml
 fields_of_interests:
-  [ "Web Development",
+  [
+    "Web Development",
     "Machine Learning",
     "UI/UX",
     "Game Development",
-    "DevOps"]
+    "DevOps"
+  ]
 ```
 
 <!-- <p align="center">
