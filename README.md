@@ -1,30 +1,201 @@
-<h1 align="center">Hi 👋, I'm Shanta Maria</h1>
-<h3 align="center">As a highly motivated third-year software engineering student, I am eager to enhance my skills and gain practical experience through internships in web development, UI/UX design, and app development.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maria-iut1234" alt="maria-iut1234" /></a> </p>
-
-- 🔭 I’m currently working on **an NLP research paper**
-
-- 🌱 I’m currently learning **ReactJS and Tailwind CSS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/maria-iut1234?tab=repositories](https://github.com/maria-iut1234?tab=repositories)
-
-- 💬 Ask me about **JavaScript, Java and HTML/CSS**
-
-- 📫 How to reach me **shantamaria@iut-dhaka.edu**
-
-- ⚡ Fun fact **i have good taste in songs 🎶**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shanta-maria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanta-maria" height="30" width="40" /></a>
-<a href="https://dribbble.com/shantamaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shantamaria" height="30" width="40" /></a>
-<a href="https://www.behance.net/shantamaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shantamaria" height="30" width="40" /></a>
+<!-- header -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=250&section=header&text=ᓚᘏᗢ &fontSize=60&fontColor=fff&stroke=caafe2&strokeWidth=1.8&animation=twinkling" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- typing font -->
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=5010&pause=1000&color=caafe2&center=true&vCenter=true&random=false&width=500&height=50&lines=Hello!+I'm+Shanta+Maria+%5E_%5E" alt="Typing SVG" />
+    </a>
+</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maria-iut1234&show_icons=true&locale=en&layout=compact" alt="maria-iut1234" /></p>
+<!-- socials -->
+<p align="center">
+    <a href="www.linkedin.com/in/shanta-maria"><img width="50px"src="assets/icons8-linkedin-64.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.facebook.com/profile.php?id=100070052212346"><img width="50px" src="assets/icons8-facebook-64.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+      <a href="https://discordapp.com/users/xcoraxx/"><img width="50px" src="assets/icons8-discord-new-64.png"/></a>
+  <!-- &#8287;&#8287;&#8287;&#8287;&#8287;
+        <a href="#"><img width="50px" src="assets/icons8-dribbble-64.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="#"><img width="50px" src="assets/icons8-behance-64.png"/></a> -->
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maria-iut1234&" alt="maria-iut1234" /></p>
+<!-- about me -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18&height=160&text=About%20Me&fontSize=55&fontColor=000&stroke=caafe2" />
+</p>
+
+<div style="display: flex; align-items: center;">
+    <div>
+        <p>
+            <ul>
+                <li> 🛠 &nbsp; Currently researching about NLP topics
+                <li> 🌱 &nbsp; Learning React Native, Next.js right now
+                <li> 💻 &nbsp; I love exploring new technologies and building cool stuff
+                <li> 💬 &nbsp; Ask me about anything <a href="https://github.com/maria-iut1234/maria-iut1234/issues/1">here!</a>
+                <li> 👾 &nbsp; I'm a gamer in my free time 
+                <li> 🎌 &nbsp; And a bit of an anime enthusiast too!
+            </ul>
+        </p>
+    </div>
+    <div style="margin-left: auto;">
+        <img src="https://media1.tenor.com/m/wkmXvhFBhNoAAAAC/tengen-uzui-tengen.gif" style="transform: scale(0.8);">
+    </div>
+</div>
+
+```yaml
+fields_of_interests:
+  [
+    "Web Development",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+    "DevOps",
+  ]
+```
+
+<!-- <p align="center">
+    <a href="https://visitorbadge.io/status?path=maria_iut1234"><img src="https://api.visitorbadge.io/api/visitors?path=maria_iut1234&label=Visitors&countColor=%235d005d&style=flat-square" /></a>
+</p> -->
+
+<!-- technical skills -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18&height=160&text=Technical%20Skills&fontSize=55&fontColor=000&stroke=caafe2" />
+</p>
+
+## Languages
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-D88736?style=for-the-badge&logo=openjdk&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+## Frameworks
+![Express.js](https://img.shields.io/badge/Express.js-122658?style=for-the-badge&logo=express&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Unity](https://img.shields.io/badge/Unity-585A5F?style=for-the-badge&logo=unity&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+## Machine Learning
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+## Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-E1B943?style=for-the-badge&logo=mysql&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+
+<details>
+<summary><h2>Platforms & Dev Tools</h2></summary>
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+</details>
+
+<details>
+<summary><h2>Hosting</h2></summary>
+
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<details>
+<summary><h2>IDEs</h2></summary>
+
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![IntellijIdea](https://img.shields.io/badge/IntelliJ_IDEA-46460C.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+</details>
+
+<details>
+<summary><h2>Design</h2></summary>
+
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
+</details>
+
+<details>
+<summary><h2>Others</h2></summary>
+
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</details>
+
+<!-- github stats -->
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18&height=160&text=Github%20Stats&fontSize=55&fontColor=000&stroke=caafe2" />
+</p>
+
+<h3>✨ Top Repositories</h3>
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Innuo&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/Innuo)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=iut-swe-20-dp-1&repo=machine-learning-model&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/iut-swe-20-dp-1/machine-learning-model)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=ML-Project&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/ML-Project)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Whispering-Shadow-v-Updated&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/ML-Project)
+
+<p align="center">
+  <a href="https://github.com/maria-iut1234?tab=repositories" target="_blank"><img alt="More Repositories" title="More Repositories" src="https://img.shields.io/badge/-More%20Repos-9796f0?style=for-the-badge"/></a>
+</p>
+
+<h3>💻 GitHub Profile Stats</h3>
+<a> 
+    <!-- streaks -->
+    <a href="https://github.com/maria-iut1234">
+        <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maria-1234&theme=tokyonight&border=caafe2" height="260px" width="49.5%"/>
+    </a>
+    <!-- github stats -->
+    <a href="https://github.com/maria-iut1234">
+        <img  align="center" src="https://github-readme-stats.vercel.app/api?username=maria-1234&show_icons=true&count_private=true&show=prs_merged&theme=tokyonight&border_color=caafe2&hide=contribs&text_color=bf91f3&icon_color=38bdae" height="260px" width="49.5%"/>  
+    </a>
+</a>
+<!-- profile summary -->
+<p align="center">
+    <a href="https://github.com/maria-iut1234">
+        <img height="220px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maria-iut1234&theme=tokyonight&border_color=caafe"/>
+    </a>
+</p>
+<!-- most used languages -->
+<p align="center">
+    <a href="https://github.com/maria-iut1234">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=maria-iut1234&langs_count=10&layout=compact&theme=tokyonight&custom_title=Maria's%20Most%20Used%20Languages&border_color=caafe2" height="260px"/>
+    </a>
+  <br/>
+</p>
+
+<!-- activity graph -->
+![Maria's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maria-iut1234&custom_title=Maria's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=38bdae&line=bf91f3&point=bf91f3&area_color=FFFFFF&title_color=70a5fd&area=true&border_color=caafe2)
+
+<br>
+
+<!-- footer -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=150&section=footer" />
+</p>
