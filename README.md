@@ -10,18 +10,6 @@
     </a>
 </h1>
 
-<!-- socials -->
-<p align="center">
-    <a href="https://www.linkedin.com/in/shanta-maria"><img width="50px"src="assets/icons8-linkedin-64.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.facebook.com/profile.php?id=100070052212346"><img width="50px" src="assets/icons8-facebook-64.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://discordapp.com/users/xcoraxx/"><img width="50px" src="assets/icons8-discord-new-64.png"/></a>
-  <!-- &#8287;&#8287;&#8287;&#8287;&#8287;
-        <a href="#"><img width="50px" src="assets/icons8-dribbble-64.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="#"><img width="50px" src="assets/icons8-behance-64.png"/></a> -->
-</p>
 
 <!-- about me -->
 <p align="center">
@@ -46,6 +34,25 @@
 
 <br>
 <br>
+<br>
+
+<!-- socials -->
+<p align="center">
+      <a href="mailto:shantamaria@iut-dhaka.edu"><img width="48px" src="assets/icons8-gmail-is-a-free-email-service-developed-by-google-48.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.linkedin.com/in/shanta-maria"><img width="48px"src="assets/icons8-linkedin---in-logo-used-for-professional-networking,-48.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.facebook.com/profile.php?id=100070052212346"><img width="48px" src="assets/icons8-online-social-media-facebook-website-homescreen-logo-button-48.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+      <a href="https://www.kaggle.com/shantamaria"><img width="48px" src="assets/icons8-kaggle-an-online-community-of-data-scientists-and-machine-learners,-owned-by-google-48.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+        <a href="https://codeforces.com/profile/maria_iut1234"><img width="48px" src="assets/icons8-codeforces.-programming-competitions-and-contests,-programming-community.-48.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+          <a href="https://xxcoraxxx.itch.io/"><img width="48px" src="assets/icons8-itch-a-website-for-users-to-host,-sell-and-download-indie-video-games-48.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+      <a href="https://discordapp.com/users/xcoraxx/"><img width="48px" src="assets/icons8-discord-48.png"/></a>
+</p>
+
 <br>
 
 ```yaml
