@@ -219,12 +219,9 @@ fields_of_interests:
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/maria-iut1234/ML-Project/pull/6) in [maria-iut1234/ML-Project](https://github.com/maria-iut1234/ML-Project)
-2. 💪 Opened PR [#6](https://github.com/maria-iut1234/ML-Project/pull/6) in [maria-iut1234/ML-Project](https://github.com/maria-iut1234/ML-Project)
-3. 🎉 Merged PR [#5](https://github.com/maria-iut1234/ML-Project/pull/5) in [maria-iut1234/ML-Project](https://github.com/maria-iut1234/ML-Project)
-4. 💪 Opened PR [#5](https://github.com/maria-iut1234/ML-Project/pull/5) in [maria-iut1234/ML-Project](https://github.com/maria-iut1234/ML-Project)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <br>
 
