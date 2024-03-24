@@ -172,17 +172,16 @@ fields_of_interests:
 <h3>✨ Top Repositories</h3>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-&nbsp; [![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Innuo&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/Innuo)
-&nbsp; [![](https://github-readme-stats.vercel.app/api/pin/?username=iut-swe-20-dp-1&repo=machine-learning-model&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/iut-swe-20-dp-1/machine-learning-model)
-&nbsp; [![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=ML-Project&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/ML-Project)
-&nbsp; [![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Whispering-Shadow-v-Updated&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/ML-Project)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Innuo&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/Innuo)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=iut-swe-20-dp-1&repo=machine-learning-model&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/iut-swe-20-dp-1/machine-learning-model)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Word-Level-ASL-Gesture-Recognition&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=maria-iut1234&repo=Whispering-Shadow-v-Updated&border_color=caafe2&bg_color=1a1b27&title_color=70a5fd&text_color=8B949E&icon_color=38bdae)](https://github.com/maria-iut1234/Whispering-Shadow-v-Updated)
 
 <p align="center">
   <a href="https://github.com/maria-iut1234?tab=repositories" target="_blank"><img alt="More Repositories" title="More Repositories" src="https://img.shields.io/badge/-More%20Repos-9796f0?style=for-the-badge"/></a>
 </p>
 
-<details>
-<summary><h3>💻 GitHub Profile Stats</h3></summary>
+<h3>💻 GitHub Profile Stats</h3>
 <a> 
     <!-- streaks -->
     <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -216,13 +215,11 @@ fields_of_interests:
 
 ![Maria's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maria-iut1234&custom_title=Maria's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=38bdae&line=bf91f3&point=bf91f3&area_color=FFFFFF&title_color=70a5fd&area=true&border_color=caafe2)
 
-</details>
-
 <h3>⚡ Recent GitHub Activity</h3>
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<!--START_SECTION:activity-->
 
+<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com/maria-iut1234/ML-Project/pull/6) in [maria-iut1234/ML-Project](https://github.com/maria-iut1234/ML-Project)
 2. 💪 Opened PR [#6](https://github.com/maria-iut1234/ML-Project/pull/6) in [maria-iut1234/ML-Project](https://github.com/maria-iut1234/ML-Project)
 3. 🎉 Merged PR [#5](https://github.com/maria-iut1234/ML-Project/pull/5) in [maria-iut1234/ML-Project](https://github.com/maria-iut1234/ML-Project)
