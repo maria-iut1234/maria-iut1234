@@ -219,9 +219,8 @@ fields_of_interests:
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br>
 
