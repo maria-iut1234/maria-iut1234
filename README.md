@@ -220,11 +220,11 @@ fields_of_interests:
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/Xer0Bytes/Innuo/pull/101) in [Xer0Bytes/Innuo](https://github.com/Xer0Bytes/Innuo)
-2. 💪 Opened PR [#101](https://github.com/Xer0Bytes/Innuo/pull/101) in [Xer0Bytes/Innuo](https://github.com/Xer0Bytes/Innuo)
-3. 🎉 Merged PR [#100](https://github.com/Xer0Bytes/Innuo/pull/100) in [Xer0Bytes/Innuo](https://github.com/Xer0Bytes/Innuo)
-4. 💪 Opened PR [#100](https://github.com/Xer0Bytes/Innuo/pull/100) in [Xer0Bytes/Innuo](https://github.com/Xer0Bytes/Innuo)
-5. 🎉 Merged PR [#6](https://github.com/maria-iut1234/ML-Project/pull/6) in [maria-iut1234/ML-Project](https://github.com/maria-iut1234/ML-Project)
+1. 🎉 Merged PR [#153](https://github.com/Xer0Bytes/Project-Tento/pull/153) in [Xer0Bytes/Project-Tento](https://github.com/Xer0Bytes/Project-Tento)
+2. 💪 Opened PR [#153](https://github.com/Xer0Bytes/Project-Tento/pull/153) in [Xer0Bytes/Project-Tento](https://github.com/Xer0Bytes/Project-Tento)
+3. 🎉 Merged PR [#101](https://github.com/Xer0Bytes/Innuo/pull/101) in [Xer0Bytes/Innuo](https://github.com/Xer0Bytes/Innuo)
+4. 💪 Opened PR [#101](https://github.com/Xer0Bytes/Innuo/pull/101) in [Xer0Bytes/Innuo](https://github.com/Xer0Bytes/Innuo)
+5. 🎉 Merged PR [#100](https://github.com/Xer0Bytes/Innuo/pull/100) in [Xer0Bytes/Innuo](https://github.com/Xer0Bytes/Innuo)
 <!--END_SECTION:activity-->
 
 <br>
