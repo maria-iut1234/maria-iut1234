@@ -228,11 +228,11 @@ fields_of_interests:
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/maria-iut1234/SipNShare/pull/3) in [maria-iut1234/SipNShare](https://github.com/maria-iut1234/SipNShare)
-2. 💪 Opened PR [#3](https://github.com/maria-iut1234/SipNShare/pull/3) in [maria-iut1234/SipNShare](https://github.com/maria-iut1234/SipNShare)
-3. 🎉 Merged PR [#2](https://github.com/maria-iut1234/SipNShare/pull/2) in [maria-iut1234/SipNShare](https://github.com/maria-iut1234/SipNShare)
-4. 💪 Opened PR [#2](https://github.com/maria-iut1234/SipNShare/pull/2) in [maria-iut1234/SipNShare](https://github.com/maria-iut1234/SipNShare)
-5. 🎉 Merged PR [#155](https://github.com/Xer0Bytes/Project-Tento/pull/155) in [Xer0Bytes/Project-Tento](https://github.com/Xer0Bytes/Project-Tento)
+1. 🎉 Merged PR [#15](https://github.com/iut-swe-20-dp-1/website-burnout-sentinel/pull/15) in [iut-swe-20-dp-1/website-burnout-sentinel](https://github.com/iut-swe-20-dp-1/website-burnout-sentinel)
+2. 💪 Opened PR [#15](https://github.com/iut-swe-20-dp-1/website-burnout-sentinel/pull/15) in [iut-swe-20-dp-1/website-burnout-sentinel](https://github.com/iut-swe-20-dp-1/website-burnout-sentinel)
+3. 🎉 Merged PR [#33](https://github.com/maria-iut1234/Cafe-IUTea/pull/33) in [maria-iut1234/Cafe-IUTea](https://github.com/maria-iut1234/Cafe-IUTea)
+4. 💪 Opened PR [#33](https://github.com/maria-iut1234/Cafe-IUTea/pull/33) in [maria-iut1234/Cafe-IUTea](https://github.com/maria-iut1234/Cafe-IUTea)
+5. 🎉 Merged PR [#32](https://github.com/maria-iut1234/Cafe-IUTea/pull/32) in [maria-iut1234/Cafe-IUTea](https://github.com/maria-iut1234/Cafe-IUTea)
 <!--END_SECTION:activity-->
 
 <br>
