@@ -241,11 +241,11 @@ fields_of_interests:
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/GoonerMAK/BrackeysGameJam23/pull/22) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
-2. 💪 Opened PR [#22](https://github.com/GoonerMAK/BrackeysGameJam23/pull/22) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
-3. 🎉 Merged PR [#156](https://github.com/Xer0Bytes/Project-Tento/pull/156) in [Xer0Bytes/Project-Tento](https://github.com/Xer0Bytes/Project-Tento)
-4. 💪 Opened PR [#156](https://github.com/Xer0Bytes/Project-Tento/pull/156) in [Xer0Bytes/Project-Tento](https://github.com/Xer0Bytes/Project-Tento)
-5. 🎉 Merged PR [#10](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition/pull/10) in [maria-iut1234/Word-Level-ASL-Gesture-Recognition](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition)
+1. 🎉 Merged PR [#23](https://github.com/GoonerMAK/BrackeysGameJam23/pull/23) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
+2. 💪 Opened PR [#23](https://github.com/GoonerMAK/BrackeysGameJam23/pull/23) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
+3. 🎉 Merged PR [#22](https://github.com/GoonerMAK/BrackeysGameJam23/pull/22) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
+4. 💪 Opened PR [#22](https://github.com/GoonerMAK/BrackeysGameJam23/pull/22) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
+5. 🎉 Merged PR [#156](https://github.com/Xer0Bytes/Project-Tento/pull/156) in [Xer0Bytes/Project-Tento](https://github.com/Xer0Bytes/Project-Tento)
 <!--END_SECTION:activity-->
 
 <br>
