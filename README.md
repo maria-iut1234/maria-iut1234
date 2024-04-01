@@ -241,11 +241,11 @@ fields_of_interests:
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/GoonerMAK/BrackeysGameJam23/pull/24) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
-2. 💪 Opened PR [#24](https://github.com/GoonerMAK/BrackeysGameJam23/pull/24) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
-3. 🎉 Merged PR [#23](https://github.com/GoonerMAK/BrackeysGameJam23/pull/23) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
-4. 💪 Opened PR [#23](https://github.com/GoonerMAK/BrackeysGameJam23/pull/23) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
-5. 🎉 Merged PR [#22](https://github.com/GoonerMAK/BrackeysGameJam23/pull/22) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
+1. 🎉 Merged PR [#9](https://github.com/GoonerMAK/Whispering-Shadow/pull/9) in [GoonerMAK/Whispering-Shadow](https://github.com/GoonerMAK/Whispering-Shadow)
+2. 💪 Opened PR [#9](https://github.com/GoonerMAK/Whispering-Shadow/pull/9) in [GoonerMAK/Whispering-Shadow](https://github.com/GoonerMAK/Whispering-Shadow)
+3. 🎉 Merged PR [#1](https://github.com/maria-iut1234/Whispering-Shadow-v-Updated/pull/1) in [maria-iut1234/Whispering-Shadow-v-Updated](https://github.com/maria-iut1234/Whispering-Shadow-v-Updated)
+4. 💪 Opened PR [#1](https://github.com/maria-iut1234/Whispering-Shadow-v-Updated/pull/1) in [maria-iut1234/Whispering-Shadow-v-Updated](https://github.com/maria-iut1234/Whispering-Shadow-v-Updated)
+5. 🎉 Merged PR [#24](https://github.com/GoonerMAK/BrackeysGameJam23/pull/24) in [GoonerMAK/BrackeysGameJam23](https://github.com/GoonerMAK/BrackeysGameJam23)
 <!--END_SECTION:activity-->
 
 <br>
