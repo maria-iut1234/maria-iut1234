@@ -232,11 +232,11 @@ fields_of_interests:
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition/pull/8) in [maria-iut1234/Word-Level-ASL-Gesture-Recognition](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition)
-2. 💪 Opened PR [#8](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition/pull/8) in [maria-iut1234/Word-Level-ASL-Gesture-Recognition](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition)
-3. 🎉 Merged PR [#7](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition/pull/7) in [maria-iut1234/Word-Level-ASL-Gesture-Recognition](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition)
-4. 💪 Opened PR [#7](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition/pull/7) in [maria-iut1234/Word-Level-ASL-Gesture-Recognition](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition)
-5. 🎉 Merged PR [#17](https://github.com/iut-swe-20-dp-1/machine-learning-model/pull/17) in [iut-swe-20-dp-1/machine-learning-model](https://github.com/iut-swe-20-dp-1/machine-learning-model)
+1. 🎉 Merged PR [#10](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition/pull/10) in [maria-iut1234/Word-Level-ASL-Gesture-Recognition](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition)
+2. 💪 Opened PR [#10](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition/pull/10) in [maria-iut1234/Word-Level-ASL-Gesture-Recognition](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition)
+3. 🎉 Merged PR [#9](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition/pull/9) in [maria-iut1234/Word-Level-ASL-Gesture-Recognition](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition)
+4. 💪 Opened PR [#9](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition/pull/9) in [maria-iut1234/Word-Level-ASL-Gesture-Recognition](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition)
+5. 🎉 Merged PR [#8](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition/pull/8) in [maria-iut1234/Word-Level-ASL-Gesture-Recognition](https://github.com/maria-iut1234/Word-Level-ASL-Gesture-Recognition)
 <!--END_SECTION:activity-->
 
 <br>
