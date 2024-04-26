@@ -241,11 +241,11 @@ fields_of_interests:
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024/pull/28) in [Jobaduwul/ICT-Fest-GameJam-2024](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024)
-2. 🎉 Merged PR [#17](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024/pull/17) in [Jobaduwul/ICT-Fest-GameJam-2024](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024)
-3. 💪 Opened PR [#17](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024/pull/17) in [Jobaduwul/ICT-Fest-GameJam-2024](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024)
-4. 🎉 Merged PR [#16](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024/pull/16) in [Jobaduwul/ICT-Fest-GameJam-2024](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024)
-5. 💪 Opened PR [#16](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024/pull/16) in [Jobaduwul/ICT-Fest-GameJam-2024](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024)
+1. 🎉 Merged PR [#30](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024/pull/30) in [Jobaduwul/ICT-Fest-GameJam-2024](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024)
+2. 💪 Opened PR [#30](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024/pull/30) in [Jobaduwul/ICT-Fest-GameJam-2024](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024)
+3. 🎉 Merged PR [#29](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024/pull/29) in [Jobaduwul/ICT-Fest-GameJam-2024](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024)
+4. 💪 Opened PR [#29](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024/pull/29) in [Jobaduwul/ICT-Fest-GameJam-2024](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024)
+5. 🎉 Merged PR [#28](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024/pull/28) in [Jobaduwul/ICT-Fest-GameJam-2024](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024)
 <!--END_SECTION:activity-->
 
 <br>
