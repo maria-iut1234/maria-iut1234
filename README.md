@@ -241,11 +241,11 @@ fields_of_interests:
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/nazmul4532/AutoConnectBD/pull/2) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
-2. 💪 Opened PR [#2](https://github.com/nazmul4532/AutoConnectBD/pull/2) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
-3. 🎉 Merged PR [#1](https://github.com/nazmul4532/AutoConnectBD/pull/1) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
-4. 💪 Opened PR [#1](https://github.com/nazmul4532/AutoConnectBD/pull/1) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
-5. 🎉 Merged PR [#54](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024/pull/54) in [Jobaduwul/ICT-Fest-GameJam-2024](https://github.com/Jobaduwul/ICT-Fest-GameJam-2024)
+1. 🎉 Merged PR [#3](https://github.com/nazmul4532/AutoConnectBD/pull/3) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
+2. 💪 Opened PR [#3](https://github.com/nazmul4532/AutoConnectBD/pull/3) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
+3. 🎉 Merged PR [#2](https://github.com/nazmul4532/AutoConnectBD/pull/2) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
+4. 💪 Opened PR [#2](https://github.com/nazmul4532/AutoConnectBD/pull/2) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
+5. 🎉 Merged PR [#1](https://github.com/nazmul4532/AutoConnectBD/pull/1) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
 <!--END_SECTION:activity-->
 
 <br>
