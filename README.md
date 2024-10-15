@@ -241,8 +241,8 @@ fields_of_interests:
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/nazmul4532/AutoConnectBD/pull/17) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
-2. 💪 Opened PR [#17](https://github.com/nazmul4532/AutoConnectBD/pull/17) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
+1. 🎉 Merged PR [#1](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024/pull/1) in [Jobaduwul/BUET-CSE-Fest-Gamejam-2024](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024)
+2. 💪 Opened PR [#1](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024/pull/1) in [Jobaduwul/BUET-CSE-Fest-Gamejam-2024](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024)
 3. 🎉 Merged PR [#16](https://github.com/nazmul4532/AutoConnectBD/pull/16) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
 4. 💪 Opened PR [#16](https://github.com/nazmul4532/AutoConnectBD/pull/16) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
 5. 🎉 Merged PR [#15](https://github.com/nazmul4532/AutoConnectBD/pull/15) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
