@@ -241,11 +241,11 @@ fields_of_interests:
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024/pull/2) in [Jobaduwul/BUET-CSE-Fest-Gamejam-2024](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024)
-2. 💪 Opened PR [#2](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024/pull/2) in [Jobaduwul/BUET-CSE-Fest-Gamejam-2024](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024)
-3. 🎉 Merged PR [#1](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024/pull/1) in [Jobaduwul/BUET-CSE-Fest-Gamejam-2024](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024)
-4. 💪 Opened PR [#1](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024/pull/1) in [Jobaduwul/BUET-CSE-Fest-Gamejam-2024](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024)
-5. 🎉 Merged PR [#15](https://github.com/nazmul4532/AutoConnectBD/pull/15) in [nazmul4532/AutoConnectBD](https://github.com/nazmul4532/AutoConnectBD)
+1. 🎉 Merged PR [#3](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024/pull/3) in [Jobaduwul/BUET-CSE-Fest-Gamejam-2024](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024)
+2. 💪 Opened PR [#3](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024/pull/3) in [Jobaduwul/BUET-CSE-Fest-Gamejam-2024](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024)
+3. 🎉 Merged PR [#2](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024/pull/2) in [Jobaduwul/BUET-CSE-Fest-Gamejam-2024](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024)
+4. 💪 Opened PR [#2](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024/pull/2) in [Jobaduwul/BUET-CSE-Fest-Gamejam-2024](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024)
+5. 🎉 Merged PR [#1](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024/pull/1) in [Jobaduwul/BUET-CSE-Fest-Gamejam-2024](https://github.com/Jobaduwul/BUET-CSE-Fest-Gamejam-2024)
 <!--END_SECTION:activity-->
 
 <br>
